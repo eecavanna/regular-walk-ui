@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/regular-walk-ui/static/js/main.4241a911.js",
+    "main.js": "/regular-walk-ui/static/js/main.0832d795.js",
     "static/js/787.9cd9387c.chunk.js": "/regular-walk-ui/static/js/787.9cd9387c.chunk.js",
     "index.html": "/regular-walk-ui/index.html",
-    "main.4241a911.js.map": "/regular-walk-ui/static/js/main.4241a911.js.map",
+    "main.0832d795.js.map": "/regular-walk-ui/static/js/main.0832d795.js.map",
     "787.9cd9387c.chunk.js.map": "/regular-walk-ui/static/js/787.9cd9387c.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4241a911.js"
+    "static/js/main.0832d795.js"
   ]
 }
