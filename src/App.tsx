@@ -45,7 +45,6 @@ function App() {
       setResponseText(response);
     } else {
       alert("Please choose a file first.");
-      return;
     }
 
     setIsLoading(false);
